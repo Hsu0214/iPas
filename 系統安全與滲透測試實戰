@@ -1,0 +1,16 @@
+使用平台:Virtualbox中的kail linux和windows xp兩虛擬機
+
+##系統平台:PC
+1.software:Application system OS
+2.Hardware security
+3.firmware Security
+4.BIOS
+
+penetration test滲透測試or駭客攻擊
+
+##攻擊
+1.確認網段中有那些系統開啟
+2.確認其主機是否live
+3.確認其OS
+4.確認是否有漏洞
+5.Exploitation->post.Exploitation
